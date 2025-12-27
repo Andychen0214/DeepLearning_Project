@@ -1,4 +1,4 @@
-# Deep Learning Practice 🚀
+# Deep Learning Project
 
 This repository serves as a record of my deep learning implementation practice during my graduate studies.
 The project spans from building neural networks from scratch using **NumPy** to implementing various classic models using **PyTorch**.
